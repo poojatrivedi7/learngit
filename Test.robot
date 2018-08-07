@@ -1,6 +1,8 @@
-# Android\IOS Author: Manisha Deokar
+
+
 *** Settings ***
 Documentation    Verifies the all options available in Side Menu.
+Library           Process
 
 Test Setup    Start Process    appium  -a 127.0.0.1  -p 4723
 *** Test Cases ***
