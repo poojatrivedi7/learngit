@@ -21,8 +21,3 @@ TC_2006
 
     Log   "ALM STEP: Tapped on Terms of Use"
 
-
-    Log   "ALM VERIFY: Landed on Terms of Use. Verifed page contents"
-
-
-    Log   "ALM VERIFY: user can leave page"
