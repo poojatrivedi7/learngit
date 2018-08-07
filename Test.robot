@@ -2,11 +2,6 @@
 *** Settings ***
 Documentation    Verifies the all options available in Side Menu.
 
-Resource    ${ROOT}/GlobalVariables/filepath.robot
-Resource    ${PATH.SIDEMENUSCREENKEYWORDS}
-Resource    ${PATH.TERMSOFUSESCREENKEYWORDS}
-Resource      ${ROOT}/GlobalVariables/CommonLibs.robot
-
 *** Test Cases ***
 TC_2006
     [Documentation]     Settings- Terms of Use -back
