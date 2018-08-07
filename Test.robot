@@ -5,7 +5,7 @@ Documentation    Verifies the all options available in Side Menu.
 Library           Process
 
 
-Suite Setup    Start Process appium  -a 127.0.0.1  -p 4723
+Suite Setup    Run Process appium  -a 127.0.0.1  -p 4723
 *** Test Cases ***
 TC_2006
     [Documentation]     Settings- Terms of Use -back
